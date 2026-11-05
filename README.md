@@ -115,7 +115,7 @@ Code under MIT. Derived data tables under CC BY 4.0.
 
 ## Author
 
-Collin B. George, BS — ORCID [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
+Collin B. George, pre-medical student — ORCID [0009-0007-8162-6839](https://orcid.org/0009-0007-8162-6839)
 
 Independent research, conducted outside the scope of any employment, and not
 issued on behalf of any institution.
